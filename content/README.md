@@ -2,6 +2,10 @@
 
 経済データ分析Ⅱの実習用サイトです。授業用のNotebookは、授業の進行に合わせて掲載します。
 
+## 教材
+
+- [第2回 住宅の広さと人口密度](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session2.ipynb)
+
 ## Notebookの使い方
 
 1. 左側のファイル一覧から、授業で指定されたNotebookを開きます。
