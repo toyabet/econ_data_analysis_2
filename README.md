@@ -11,6 +11,7 @@
 ## 教材
 
 - [第2回 住宅の広さと人口密度](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session2.ipynb)
+- [第3回 重回帰の係数と回帰分析の仮定](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session3.ipynb)
 
 ## 教材の追加
 
