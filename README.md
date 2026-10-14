@@ -12,6 +12,7 @@
 
 - [第2回 住宅の広さと人口密度](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session2.ipynb)
 - [第3回 回帰分析の仮定と推定値の性質](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session3.ipynb)
+- [第4回 係数の期待値と分散](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session4.ipynb)
 
 ## 教材の追加
 
