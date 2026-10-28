@@ -8,6 +8,7 @@
 - [第3回 回帰分析の仮定と推定値の性質](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session3.ipynb)
 - [第4回 係数の期待値と分散](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session4.ipynb)
 - [第5回 不均一分散と頑健な標準誤差](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session5.ipynb)
+- [第6回 ダミー変数と交差項](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session6.ipynb)
 
 ## Notebookの使い方
 
