@@ -9,6 +9,7 @@
 - [第4回 係数の期待値と分散](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session4.ipynb)
 - [第5回 不均一分散と頑健な標準誤差](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session5.ipynb)
 - [第6回 ダミー変数と交差項](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session6.ipynb)
+- [第7回 2値の被説明変数と線形確率モデル](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session7.ipynb)
 
 ## Notebookの使い方
 
