@@ -12,6 +12,7 @@
 - [第7回 2値の被説明変数と線形確率モデル](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session7.ipynb)
 - [第8回 プロビットモデル](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session8.ipynb)
 - [第9回 ロジットモデル](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session9.ipynb)
+- [第10回 トービットモデル](https://toyabet.github.io/econ_data_analysis_2/lab/index.html?path=session10.ipynb)
 
 ## Notebookの使い方
 
